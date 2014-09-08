@@ -9,7 +9,7 @@ package madpack;
  */
 public class gitLab {
     public static void helloMAD(){
-        System.out.println("hello world from Mad");
+        System.out.println("hello world from Mad121212");
     }
 
     public static void main (String[] args){
