@@ -11,6 +11,7 @@ public class gitLab {
     public static void helloMAD(){
         System.out.println("hello world from Mad");
         System.out.println("hello world from Vova");
+        System.out.println("hello world from Hunter");
         
     }
 
